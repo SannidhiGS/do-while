@@ -1,0 +1,8 @@
+<?php
+$counter = 0;
+
+do {
+  echo "The counter value is: " . $counter . "\n";
+  $counter++;
+} while ($counter < 10);
+?>
